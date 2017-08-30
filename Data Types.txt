@@ -11,5 +11,3 @@ Insurance Payouts
 Drug Formularies
 Coverage Benefit Charts
 Drug Studies - Randomized Controlled Studies
-
-modifying
